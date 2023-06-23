@@ -1,0 +1,17 @@
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.csproj.AssemblyReference.cache
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.Form1.resources
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.csproj.GenerateResource.cache
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.AssemblyInfoInputs.cache
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.AssemblyInfo.cs
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.csproj.CoreCompileInputs.cache
+C:\Users\84923\source\repos\SegProj\SegProj\bin\Debug\net6.0-windows\SegProj.exe
+C:\Users\84923\source\repos\SegProj\SegProj\bin\Debug\net6.0-windows\SegProj.deps.json
+C:\Users\84923\source\repos\SegProj\SegProj\bin\Debug\net6.0-windows\SegProj.runtimeconfig.json
+C:\Users\84923\source\repos\SegProj\SegProj\bin\Debug\net6.0-windows\SegProj.dll
+C:\Users\84923\source\repos\SegProj\SegProj\bin\Debug\net6.0-windows\SegProj.pdb
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.dll
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\refint\SegProj.dll
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.pdb
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\SegProj.genruntimeconfig.cache
+C:\Users\84923\source\repos\SegProj\SegProj\obj\Debug\net6.0-windows\ref\SegProj.dll
